@@ -6,3 +6,5 @@ The up to date contents of the csv file can then be viewed in the sheet.html web
 
 A JavaScript function is used to validate the input fields on the client side, this is backed up on the 
 server side by a python application.
+
+Type <i>flask run</i> in the command line to get link to website.
